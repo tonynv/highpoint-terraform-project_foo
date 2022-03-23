@@ -6,6 +6,6 @@ repos:
     repo: https://github.com/tonynv/pre-commit-configs
     # To update run:
     # pre-commit autoupdate --freeze
-    rev: 73c7f911d489eb85b1c8466f43f6dee4d533476d   # frozen: v1.3.2
+    rev: e69b020a35ee6853e48d805d1b33d0913ef8a4e4  # frozen: v1.3.2
     hooks:
       - id: aws-ia-highpoint-hook
